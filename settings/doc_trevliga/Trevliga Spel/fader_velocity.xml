@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Fader displayname="BB Velocity">
+	<Background dialimage="back_velocity.png"/>
+	<Handle dialimage=""/>
+	<VU dialimage=""/>
+</Fader>

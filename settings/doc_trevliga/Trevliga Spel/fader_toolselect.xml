@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Fader displayname="BB Tool Select">
+	<Background dialimage="back_toolselect.png"/>
+	<Handle dialimage=""/>
+	<VU dialimage=""/>
+</Fader>

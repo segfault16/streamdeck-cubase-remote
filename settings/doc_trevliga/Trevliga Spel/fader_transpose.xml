@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Fader displayname="BB Transpose">
+	<Background dialimage="back_transpose.png"/>
+	<Handle dialimage=""/>
+	<VU dialimage=""/>
+</Fader>

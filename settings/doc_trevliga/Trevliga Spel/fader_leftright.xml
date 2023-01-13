@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Fader displayname="BB Left/Right">
+	<Background dialimage="back_leftright.png"/>
+	<Handle dialimage=""/>
+	<VU dialimage=""/>
+</Fader>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Fader displayname="BB Select Beat">
+	<Background dialimage="back_selectbeat.png"/>
+	<Handle dialimage=""/>
+	<VU dialimage=""/>
+</Fader>

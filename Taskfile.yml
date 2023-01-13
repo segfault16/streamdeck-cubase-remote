@@ -1,0 +1,14 @@
+version: 3
+
+tasks:
+  collect:
+    desc: Collect the settings and update in this repository
+    cmds:
+    - rm -rf settings || false
+    - mkdir -p settings
+    - mkdir -p settings/driver_local
+    - mkdir -p settings/logical_edit
+    - mkdir -p settings/doc_trevliga
+    - cp -r ~/Documents/Steinberg/Cubase/MIDI\ Remote/Driver\ Scripts/Local/BB settings/driver_local
+    - cp -r ~/Documents/Steinberg/Cubase/User\ Presets/Logical\ Edit/Earlier\ Presets/BB settings/logical_edit
+    - cp -r ~/Documents/Trevliga\ Spel settings/doc_trevliga

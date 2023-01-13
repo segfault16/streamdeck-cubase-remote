@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Fader displayname="BB Quantize Grid">
+	<Background dialimage="back_quantizegrid.png"/>
+	<Handle dialimage=""/>
+	<VU dialimage=""/>
+</Fader>
